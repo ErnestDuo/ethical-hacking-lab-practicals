@@ -5,7 +5,7 @@ An ethical hacking lab repository documenting authorized security testing using 
 > **Disclaimer & Scope**
 > This repository documents **authorized, educational lab exercises only**. All actions were performed in an isolated environment using intentionally vulnerable targets (e.g., DVWA / Metasploitable) with **explicit permission**. Do **not** apply these techniques to real systems without written authorization.
 
----
+
 
 ## Lab Overview
 

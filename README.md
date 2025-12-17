@@ -18,7 +18,7 @@ This lab demonstrates three common phases of an ethical hacking workflow:
 **Attacker VM:** Kali Linux (VirtualBox)
 **Target VMs:** DVWA, Metasploitable (lab-only)
 
----
+
 
 ## Tool 1: Social Engineering Toolkit (SET)
 
@@ -52,7 +52,7 @@ This lab demonstrates three common phases of an ethical hacking workflow:
 * How form-based credential harvesting works at a high level.
 * Importance of HTTPS, input validation, and anti-phishing controls.
 
----
+
 
 ## Tool 2: enum4linux
 
@@ -90,7 +90,7 @@ This lab demonstrates three common phases of an ethical hacking workflow:
 * How misconfigured SMB services leak information.
 * Value of enumeration before exploitation.
 
----
+
 
 ## Tool 3: Samba (SMB) Enumeration & Validation
 
@@ -126,7 +126,7 @@ This lab demonstrates three common phases of an ethical hacking workflow:
 * Risks of anonymous SMB access.
 * Importance of proper share permissions and authentication.
 
----
+
 
 ## Screenshots
 
@@ -148,13 +148,12 @@ Screenshots referenced in this repository illustrate:
 * Restrict SMB shares and apply least privilege.
 * Monitor logs for abnormal POST activity.
 
----
+
 
 ## Legal & Ethical Notice
 
 This documentation is for **learning and defense improvement** only. Always operate within the bounds of the law and organizational policy.
 
----
 
 ## References
 
